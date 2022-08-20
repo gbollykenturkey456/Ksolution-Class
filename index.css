@@ -1,0 +1,13 @@
+body {
+    background:aquamarine;
+}
+
+h1 {
+    text-decoration: underline;
+    text-align: center;
+}
+
+p {
+    color: blue;
+    text-align: center;
+}
